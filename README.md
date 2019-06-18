@@ -5,5 +5,5 @@
 <p>Contains a constructor, Word that depends on the Letter constructor. This is used to create an object representing the current word the user is attempting to guess.</p>
 
 <h3>How to Start</h3>
-<p>Download the repo. In a terminal, cd into the directory of the repo and type the following command to start the game:</p>
-  <em>node index.js</3m>
+<p>Download the repo. In a terminal, cd into the directory of the repo and type the following command to start the game: <strong>node index.js</strong></p>
+  
